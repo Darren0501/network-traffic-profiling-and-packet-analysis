@@ -10,7 +10,7 @@ The scenario was executed within a decentralized virtual environment (VirtualBox
 *   **ECorp LAN (Victim):** Subnet `10.0.1.0/24`. The monitored client is a Windows 10 VM (`wrk-price`) assigned the IP `10.0.1.2`.
 *   **Attack LAN (Analyst/Attacker):** Subnet `10.0.3.0/24`. The analysis and scanning workstation utilizes Kali Linux with the IP `10.0.3.2`.
 
-![Lab Environment](Image/1.png)
+![Lab Environment](Image/Homelab%20Configuration.png)
 
 ## 3. Tools Used
 *   **pfSense (Packet Capture):** Employed for centralized raw packet capture, eliminating the need for additional agent installations on client machines.
